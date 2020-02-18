@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+.maps {
+    float: right;
+}
+.contact_page_image {
+    width: 500px;
+    position: relative;
+    right: -175px;
+}

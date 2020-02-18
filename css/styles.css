@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+   
+/* NavBar Section */
+    .header_text {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 900;
+        color: purple;
+    }
+/* NavBar Ends *
+/* Jumbotron */
+.jumbotron {
+    background-image: url(../img/tpab.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-weight: bold;
+    backgr
+}
+
+p {
+    font-weight: 900;
+    
+}
