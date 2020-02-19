@@ -13,12 +13,18 @@
     background-image: url(../img/tpab.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 150vh;
     font-weight: bold;
-    backgr
+    background-position: 50%;
+    opacity: 1;
+
+}
+.content-img {
+    float: right;
 }
 
 p {
-    font-weight: 900;
-    
+    font-weight: 1200;
+    color: rgb(214, 19, 214);
+
 }
